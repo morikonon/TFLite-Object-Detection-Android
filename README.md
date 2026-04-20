@@ -15,7 +15,7 @@ A lightweight Android application that demonstrates real-time object detection u
 ## Quick Start
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/morikonon/android_course.git](https://github.com/morikonon/android_course.git)
+   git clone https://github.com/morikonon/TFLite-Object-Detection-Android.git
 2. **Setup Model:** Ensure mobilenetv1.tflite is located in app/src/main/assets/.
 3. **Build & Run:** Open in Android Studio and run on an emulator or physical device.
 
